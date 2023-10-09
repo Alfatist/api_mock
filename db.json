@@ -1,6 +1,6 @@
 {
   "autenticacao": {
-    "1": { "login": "teteus", "senha": "123" },
-    "2": { "login": "rafael", "senha": "321" }
+    "login": "teteus",
+    "senha": "123"
   }
 }
